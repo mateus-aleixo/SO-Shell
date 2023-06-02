@@ -17,11 +17,14 @@ To get started with SO-Shell, follow these steps:
 1. Clone the repository:
 git clone https://github.com/mateus-aleixo/SO-Shell.git
 
-2. Build the project:
+
+2. Navigate to the project directory:
 cd SO-Shell
+
+3. Build the project:
 make
 
-3. Run the shell:
+4. Run the shell:
 ./soshell
 
 ## Usage
@@ -29,7 +32,7 @@ make
 Once you have the shell running, you can enter commands and interact with it. Here are a few examples:
 
 - Execute a command:
-$ls
+$ ls
 
 - Redirect input from a file:
 $ sort < input.txt
