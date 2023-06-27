@@ -15,30 +15,30 @@ SO-Shell is a minimalistic shell implemented in the C programming language. It p
 To get started with SO-Shell, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/mateus-aleixo/SO-Shell.git
+```git clone https://github.com/mateus-aleixo/SO-Shell.git```
 
 
 2. Navigate to the project directory:
-cd SO-Shell
+```cd SO-Shell```
 
 3. Build the project:
-make
+```make```
 
 4. Run the shell:
-./soshell
+```./soshell```
 
 ## Usage
 
 Once you have the shell running, you can enter commands and interact with it. Here are a few examples:
 
 - Execute a command:
-$ ls
+```ls```
 
 - Redirect input from a file:
-$ sort < input.txt
+```sort < input.txt```
 
 - Redirect output to a file:
-$ ls > output.txt
+```ls > output.txt```
 
 - Use pipelines to connect multiple commands:
-$ cat input.txt | grep "pattern" | sort | uniq
+```cat input.txt | grep "pattern" | sort | uniq```
