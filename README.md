@@ -15,11 +15,11 @@ SO-Shell is a minimalistic shell implemented in the C programming language. It p
 To get started with SO-Shell, follow these steps:
 
 1. Clone the repository:
-```git clone https://github.com/mateus-aleixo/SO-Shell.git```
+```git clone https://github.com/mateus-aleixo/so-shell.git```
 
 
 2. Navigate to the project directory:
-```cd SO-Shell```
+```cd so-shell```
 
 3. Build the project:
 ```make```
